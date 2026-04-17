@@ -73,7 +73,7 @@ M.highlights_base = function (colors)
     Keyword = { fg = colors.color2 },
     Statement = { fg = colors.color10 },
     Conditional = { fg = colors.color10 },
-    Repeat = { fg = colors.color9 },
+    Repeat = { fg = colors.color10 },
     Label = { fg = colors.color11 },
     Exception = { fg = colors.color4 },
     Include = { fg = colors.color2 },
