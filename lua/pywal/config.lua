@@ -18,7 +18,7 @@ M.highlights_base = function (colors)
     PmenuSel = { fg = colors.background, bg = colors.color4 },
     WildMenu = { fg = colors.color7, bg = colors.color4 },
     CursorLineNr = { fg = colors.color1 },
-    Comment = { fg = colors.color3 },
+    Comment = { fg = colors.color12 },
     Folded = { fg = colors.color4, bg = colors.background },
     FoldColumn = { fg = colors.color4, bg = colors.background },
     LineNr = { fg = colors.color12, bg = colors.background },
