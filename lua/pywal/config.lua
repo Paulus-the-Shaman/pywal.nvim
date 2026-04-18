@@ -72,7 +72,7 @@ M.highlights_base = function (colors)
     Typedef = { fg = colors.color2 },
     Keyword = { fg = colors.color2 },
     Statement = { fg = colors.color10 },
-    Conditional = { fg = colors.color10 },
+    Conditional = { fg = colors.color9 },
     Repeat = { fg = colors.color10 },
     Label = { fg = colors.color11 },
     Exception = { fg = colors.color4 },
