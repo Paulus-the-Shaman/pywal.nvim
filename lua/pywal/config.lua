@@ -78,7 +78,7 @@ M.highlights_base = function (colors)
     Exception = { fg = colors.color4 },
     Include = { fg = colors.color2 },
     PreProc = { fg = colors.color2 },
-    Define = { fg = colors.color0 },
+    Define = { fg = colors.color4 },
     Macro = { fg = colors.color0 },
     PreCondit = { fg = colors.color6 },
     Special = { fg = colors.color6 },
